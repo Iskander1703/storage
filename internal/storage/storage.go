@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/iskander1703/storage/internal/file"
+	"github.com/iskander1703/storage/v2/internal/file"
 )
 
 type Storage struct {
